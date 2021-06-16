@@ -1,0 +1,6 @@
+/assets/node_modules
+/assets/out
+
+*.log
+*.sql
+*.sqlite
